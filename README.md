@@ -1,2 +1,2 @@
-# nltk_study
-self study project for NLTK.
+# A self-study project of NLTK.
+This repository was made for self-study project of NLTK.
